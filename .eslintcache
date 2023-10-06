@@ -1,0 +1,191 @@
+[
+  {
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\app\\index.tsx": "1",
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\app\\providers\\index.ts": "2",
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\app\\providers\\with-router.tsx": "3",
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\app\\providers\\with-theme.tsx": "4",
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\global.d.ts": "5",
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\main.tsx": "6",
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\pages\\index.ts": "7",
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\pages\\routing.tsx": "8",
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\shared\\constants\\index.ts": "9",
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\shared\\constants\\routes.ts": "10",
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\shared\\hooks\\index.ts": "11",
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\shared\\hooks\\use-inject-colors.ts": "12",
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\shared\\ui-kit\\colors.ts": "13",
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\shared\\ui-kit\\index.ts": "14",
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\shared\\ui-kit\\theme.ts": "15",
+    "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\vite-env.d.ts": "16"
+  },
+  {
+    "size": 605,
+    "mtime": 1692882395879,
+    "results": "17",
+    "hashOfConfig": "18"
+  },
+  {
+    "size": 326,
+    "mtime": 1692866347187
+  },
+  {
+    "size": 329,
+    "mtime": 1692870344812
+  },
+  {
+    "size": 264,
+    "mtime": 1692866326078
+  },
+  {
+    "size": 133,
+    "mtime": 1692865627793
+  },
+  {
+    "size": 261,
+    "mtime": 1692882397141,
+    "results": "19",
+    "hashOfConfig": "18"
+  },
+  {
+    "size": 38,
+    "mtime": 1692863292677
+  },
+  {
+    "size": 380,
+    "mtime": 1692881553302
+  },
+  {
+    "size": 27,
+    "mtime": 1692870465834
+  },
+  {
+    "size": 552,
+    "mtime": 1692870506742
+  },
+  {
+    "size": 56,
+    "mtime": 1692877847270
+  },
+  {
+    "size": 516,
+    "mtime": 1691571995350,
+    "results": "20",
+    "hashOfConfig": "18"
+  },
+  {
+    "size": 648,
+    "mtime": 1692882393572,
+    "results": "21",
+    "hashOfConfig": "18"
+  },
+  {
+    "size": 74,
+    "mtime": 1692866187585
+  },
+  {
+    "size": 967,
+    "mtime": 1692879675753
+  },
+  {
+    "size": 38,
+    "mtime": 1692444647267,
+    "results": "22",
+    "hashOfConfig": "18"
+  },
+  {
+    "filePath": "23",
+    "messages": "24",
+    "suppressedMessages": "25",
+    "errorCount": 2,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "source": null
+  },
+  "1k5os0q",
+  {
+    "filePath": "26",
+    "messages": "27",
+    "suppressedMessages": "28",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "29",
+    "messages": "30",
+    "suppressedMessages": "31",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "32",
+    "messages": "33",
+    "suppressedMessages": "34",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "35",
+    "messages": "36",
+    "suppressedMessages": "37",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\app\\index.tsx",
+  [
+    "38",
+    "39"
+  ],
+  [],
+  "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\main.tsx",
+  [],
+  [],
+  "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\shared\\hooks\\use-inject-colors.ts",
+  [],
+  [],
+  "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\shared\\ui-kit\\colors.ts",
+  [],
+  [],
+  "C:\\Users\\PC\\Desktop\\minobr-frontend\\src\\vite-env.d.ts",
+  [],
+  [],
+  {
+    "ruleId": "40",
+    "severity": 2,
+    "message": "41",
+    "line": 12,
+    "column": 9,
+    "nodeType": "42",
+    "messageId": "43",
+    "endLine": 12,
+    "endColumn": 18
+  },
+  {
+    "ruleId": "44",
+    "severity": 2,
+    "message": "41",
+    "line": 12,
+    "column": 9,
+    "nodeType": "42",
+    "messageId": "43",
+    "endLine": 12,
+    "endColumn": 18
+  },
+  "no-unused-vars",
+  "'isLoading' is assigned a value but never used.",
+  "Identifier",
+  "unusedVar",
+  "@typescript-eslint/no-unused-vars"
+]

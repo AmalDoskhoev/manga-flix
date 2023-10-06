@@ -1,0 +1,20 @@
+.root {
+  display: flex;
+  visibility: hidden;
+  opacity: 0;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  transition: all 0.3s ease-in-out;
+  background-color: #fff;
+  z-index: 1;
+}
+
+.visible {
+  opacity: 1;
+  visibility: visible;
+}
