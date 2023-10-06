@@ -1,19 +1,20 @@
-# Перед запуском
+# Перед запуском 💮 MangaFlix
 
-1. Склонировать проект `https://github.com/MINOBR-Dev/minobr-frontend`
+1. Склонировать проект `https://github.com/AmalDoskhoev/manga-flix`
 2. Выполнить коману: `npm i`
 3. Выполнить коману: `npm run dev`
 
-# Используемый стек 
+---
+
+# ⚙ Используемый стек 
 - ReactJS + TypeScript
 - zustand + RQ 
-- Yup + React Hook Form + @hookform/resolvers - валидация форм
+- Yup + React Hook Form + @hookform/resolvers
 - React Router v6
 - Material UI
-- Emotion / Styled Components (посмотреть что такое и то и другое)
+- Emotion / Styled Components
 - Prettier + ESLint
 - Dynamic Import JS + Code Splitting + Lazy Loading + React.Lazy
-- Cypress
 - React Testing Library + Jest (в будущем)
 - Infinite Scroll
 - IntersectionObserver
