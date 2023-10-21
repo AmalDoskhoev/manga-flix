@@ -1,1 +1,1 @@
-export { loginServices as login } from '@/modules/auth';
+export { loginServices as login } from '@/widgets/login-form';

@@ -1,6 +1,4 @@
-import {
-  UserEntity, mapUserDTOToUserEntity,
-} from '@/shared/model';
+import { mapUserDTOToUserEntity, type UserEntity } from '@/shared/model';
 
 import * as api from './login-form.api';
 import { type LoginFormDTO } from './login-form.dto';

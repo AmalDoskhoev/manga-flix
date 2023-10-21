@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { LoginForm } from '@/modules/auth';
+import { LoginForm } from '@/widgets/login-form';
 
 import styles from './login.module.scss';
 

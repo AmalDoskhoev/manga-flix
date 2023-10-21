@@ -1,8 +1,8 @@
 import { Endpoints } from '@/shared';
 import axios from '@/shared/core/axios';
+import { type UserDTO } from '@/shared/model';
 
 import { type LoginFormDTO, type LoginResponseDTO } from './login-form.dto';
-import { UserDTO } from '@/shared/model';
 
 export const signIn = async (form: LoginFormDTO): Promise<LoginResponseDTO> => {
   return (await axios.post(Endpoints.AUTH_LOGIN, form)).data;
